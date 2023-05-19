@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot funcional para tener una conversación.
 # Conversaciones anidadas
 # Multiples opciones
@@ -6,4 +7,14 @@
 # Y en la base de datos también guarda la IP o el correo electronico tras 
 -- logearse
 # El chatbot puede traer todas las sugerencias de los productos
+=======
+# Chatbot funcional para tener una conversación.
+# Conversaciones anidadas
+# Multiples opciones
+# Carrito de compras funcional
+# Al dar "No, gracias" guarda toda la conversación en la base de datos
+# Y en la base de datos también guarda la IP o el correo electronico tras 
+-- logearse
+# El chatbot puede traer todas las sugerencias de los productos
+>>>>>>> 0c8424fbc8dca2f96a4bd552fc70a4e478aca5c7
 -- del tipo de categoria
