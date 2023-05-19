@@ -1,0 +1,9 @@
+# Chatbot funcional para tener una conversación.
+# Conversaciones anidadas
+# Multiples opciones
+# Carrito de compras funcional
+# Al dar "No, gracias" guarda toda la conversación en la base de datos
+# Y en la base de datos también guarda la IP o el correo electronico tras 
+-- logearse
+# El chatbot puede traer todas las sugerencias de los productos
+-- del tipo de categoria
